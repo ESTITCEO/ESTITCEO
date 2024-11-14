@@ -13,7 +13,7 @@
 
 <a href="https://www.linkedin.com/in/brayanestit-hurtado-b5467b338/"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000">Brayanestit Hurtado</a>
 
-<a href="https://www.instagram.com/sharif__islam_/"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"> Programador Big Genius</a>
+<a href="https://www.instagram.com/brayanblezz/profilecard/?igsh=NXQwbmNoMWtleHkw"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000">Mi instagram</a>
 
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sharif.islam96403@gmail.com"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"> Shariful Islam</a>
 
