@@ -17,11 +17,11 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Un apasionado desarrollador Front-end autodidacta
+- Jugar a los CTF en el tiempo libre
+- Actualmente aprendiendo Desarrollo Web por Coursera
+- Sitio web personal [link](https://estitceo.github.io/estitnet/index.html)
+- Actualmente estoy certificado como desarrollador front-end por Meta. [my resume](https://coursera.org/verify/3CGZEOXKHZQ5)
 
 <br><br>
 
