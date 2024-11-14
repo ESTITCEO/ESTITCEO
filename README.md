@@ -1,4 +1,5 @@
 ## Hola, Soy Estit
+![image](https://github.com/user-attachments/assets/fee9759c-2c00-42b1-b7d0-e18db8ce2729)
 
 <!--
 **ESTITCEO/ESTITCEO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
