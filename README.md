@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=25&duration=3000&pause=5000&color=32A8BBFF&center=true&vCenter=true&width=1000&lines=+desarrollador+frontend+y+backend++de+Colombia" alt="Typing SVG" /></a>
 
-  <img align="right" top="500" height="270" width="400" alt="GIF" src="./CatCode.gif">
+  <img align="right" top="500" height="270" width="400" alt="GIF" src="CatCode.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=https-sharif&label=Profile%20views&base=2580&abbreviated=true&color=252da1&style=for-the-badge" alt="https-sharif" /> </p>
   <h3> Full Stack || Desarrollador autodidacta || CS @ EDU</h3>
   
