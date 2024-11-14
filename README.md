@@ -5,9 +5,9 @@
 <img align="right" top="500" height="270" width="400" alt="GIF" src="./CatCode.gif">
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=https-sharif&label=Profile%20views&base=2580&abbreviated=true&color=252da1&style=for-the-badge" alt="https-sharif" /> </p>
-  <h3> Full Stack || Self-Taught Developer || CS @ EDU</h3>
+  <h3> Full Stack || Desarrollador autodidacta || CS @ EDU</h3>
   
-  - Looking for an idea for my next project.
+  - Actualmente certificado en desarrollo front-end por Meta a través de Coursera. [link](https://coursera.org/verify/3CGZEOXKHZQ5)
 
 <h3 align="left">Connect with me:</h3>
 
