@@ -138,7 +138,7 @@
         </a>
     </span>
     <span style="display: inline-block; margin-left: 20px;">
-        <img alt="GIF" src="./PurpleMatrix.gif" align="right" style="width: 250px; height: 200px; vertical-align: middle;" />
+        <img alt="GIF" src="https://github.com/ESTITCEO/https-sharif/blob/ac7a232b282f7c25a7a3d962daf227ad3bebea5e/PurpleMatrix.gif" align="right" style="width: 250px; height: 200px; vertical-align: middle;" />
     </span>
 </div>
 
