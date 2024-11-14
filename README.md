@@ -39,7 +39,7 @@
 &nbsp;
 <br>
 
-### <u> Frontend Development: </u>
+### <u> Desarrollo Frontend: </u>
 <br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -53,7 +53,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 &nbsp;
 
-### <u> Backend Development: </u>
+### <u> Desarollo Backend: </u>
 <br>
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -66,7 +66,7 @@
 &nbsp;
 <br>
 
-### <u> Version Control and Tools: </u>
+### <u> Control de versiones y herramienta: </u>
 <br>
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -75,7 +75,7 @@
 &nbsp;
 <br>
 
-### <u> Operating Systems and Others: </u>
+### <u> Sistemas operativos y otros: </u>
 <br>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -100,13 +100,13 @@
 <br>
 
 <!---
-### <u> Currently I'm learning: </u>
+### <u> Actualmente estoy aprendiendo: </u>
 <br>
 
 <br>
 -->
 
-### <u> In future, I will learn: </u>
+### <u>  En el futuro, aprenderé: </u>
 <br>
 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
