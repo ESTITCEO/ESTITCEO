@@ -13,7 +13,7 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://www.bing.com/images/search?view=detailV2&ccid=zkgqfx6e&id=1A9767860D3EFB6D60350BC59E75D2383269DED2&thid=OIP.zkgqfx6e1ud7jPORTZGZpwHaEK&mediaurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-photo%2Fdigital-painting-futuristic-city-night-with-bright-neon-lights_1151108-51308.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.ce482a7f1e9ed6e77b8cf3914d9199a7%3Frik%3D0t5pMjjSdZ7FCw%26pid%3DImgRaw%26r%3D0&exph=352&expw=626&q=futurist+banner+4k&simid=608018948869327130&form=IRPRST&ck=35E051BF58BDAC42DACA070FA073034C&selectedindex=0&itb=0&ajaxhist=0&ajaxserp=0&pivotparams=insightsToken%3Dccid_4kpTnG4G*cp_DF2D29801D0C1EA8223D30E9459AF46C*mid_D8952104E71DE5EC7ECF51F364EE0EAB3BDAC619*simid_608006691030725668*thid_OIP.4kpTnG4Gh7u09RlvMiAnAgHaEJ&vt=0&sim=11&iss=VSI&ajaxhist=0&ajaxserp=0" width = 250px></picture>
 
 <br>
 
