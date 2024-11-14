@@ -11,7 +11,7 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 
-<a href="https://wa.me/+573104376366"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"> Brayan Estit</a>
+<a href="https://www.linkedin.com/in/brayanestit-hurtado-b5467b338/"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000">Brayanestit Hurtado</a>
 
 <a href="https://www.instagram.com/sharif__islam_/"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"> Programador Big Genius</a>
 
