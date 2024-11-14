@@ -9,9 +9,9 @@
   
   - Actualmente certificado en desarrollo front-end por Meta a través de Coursera. [link](https://coursera.org/verify/3CGZEOXKHZQ5)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conéctate conmigo:</h3>
 
-<a href="https://www.linkedin.com/in/shariful-islam-b3266a1b9/"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"> Brayan Estit</a>
+<a href="https://wa.me/+573104376366"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"> Brayan Estit</a>
 
 <a href="https://www.instagram.com/sharif__islam_/"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000"> Programador Big Genius</a>
 
