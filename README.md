@@ -7,6 +7,7 @@
   <h3> Full Stack || Desarrollador autodidacta || CS @ EDU</h3>
   
   - Actualmente certificado en desarrollo front-end por Meta a través de Coursera. [link](https://coursera.org/verify/3CGZEOXKHZQ5)
+  - Actualmente certificado en desarollo back-end por Meta a través de Coursera. [link](https://coursera.org/share/71d26bcb604e1e4ee82f9deb7d2c3545)
 
 <h3 align="left">Conéctate conmigo:</h3>
 
