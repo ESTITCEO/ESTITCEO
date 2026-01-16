@@ -18,12 +18,6 @@
 <a href="brayanestit8@gmail.com"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000">Mi Correo</a>
 
 <hr>
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
-    <span style="display: inline-block;">
-        <a href="https://git.io/streak-stats" style="text-decoration: none;">
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=https-sharif&theme=midnight-purple&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200&fire=EB6D00" alt="GitHub Streak" style="max-width: 100%; height: auto; vertical-align: middle;" />
-        </a>
-    </span>
     <span style="display: inline-block; margin-left: 20px;">
         <img alt="GIF" src="https://github.com/ESTITCEO/https-sharif/blob/ac7a232b282f7c25a7a3d962daf227ad3bebea5e/PurpleMatrix.gif" align="right" style="width: 250px; height: 200px; vertical-align: middle;" />
     </span>
