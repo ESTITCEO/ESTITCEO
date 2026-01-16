@@ -17,15 +17,6 @@
 
 <a href="brayanestit8@gmail.com"><img align="center" width="25px" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000">Mi Correo</a>
 
-<hr>
-    <span style="display: inline-block; margin-left: 20px;">
-        <img alt="GIF" src="https://github.com/ESTITCEO/https-sharif/blob/ac7a232b282f7c25a7a3d962daf227ad3bebea5e/PurpleMatrix.gif" align="right" style="width: 250px; height: 200px; vertical-align: middle;" />
-    </span>
-</div>
-
-
----
-
 <!--
 **ESTITCEO/ESTITCEO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
